@@ -1,5 +1,5 @@
 # AI-Agent
-An AI Agent made using Google's Gemini LLM.
+An AI Agent made on Google's Gemini LLM.
 This is a simple AI Agent that takes the prompt through Browser Use WebUI and performs the automation tasks using Play Playwright repository.
 
 Steps :
